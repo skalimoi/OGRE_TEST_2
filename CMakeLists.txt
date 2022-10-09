@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.23)
+project(OGRE_TEST_2)
+
+set(CMAKE_CXX_STANDARD 23)
+set(OGRE_DIR D:/dev/OGRE/CMake)
+set(OGRE_MEDIA_DIR D:/dev/OGRE/Media)
+include_directories(D:/dev/OGRE/include/OGRE)
+find_package(OGRE REQUIRED COMPONENTS Bites CONFIG)
+add_executable(OGRE_TEST_2 main.cpp)
+target_link_libraries(OGRE_TEST_2 OgreBites)

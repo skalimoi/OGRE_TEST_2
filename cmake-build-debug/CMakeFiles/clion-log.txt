@@ -1,0 +1,9 @@
+"D:\Program Files\JetBrains\CLion 2022.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Program Files/JetBrains/CLion 2022.2.1/bin/ninja/win/ninja.exe" -G Ninja -S D:\dev\CodeProjects\OGRE_TEST_2 -B D:\dev\CodeProjects\OGRE_TEST_2\cmake-build-debug
+-- Found OGRE
+--   static     : OFF
+--   components : Bites;Bullet;MeshLodGenerator;Overlay;Paging;Property;RTShaderSystem;Terrain;Volume
+--   plugins    : Plugin_BSPSceneManager;Plugin_OctreeSceneManager;Plugin_PCZSceneManager;Plugin_ParticleFX;RenderSystem_GL;RenderSystem_GLES2;RenderSystem_GL3Plus;RenderSystem_Direct3D9;RenderSystem_Direct3D11;Codec_STBI
+--   media      : D:/dev/OGRE/Media
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/dev/CodeProjects/OGRE_TEST_2/cmake-build-debug

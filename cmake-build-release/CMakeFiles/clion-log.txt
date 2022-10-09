@@ -1,0 +1,21 @@
+"D:\Program Files\JetBrains\CLion 2022.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release "-DCMAKE_MAKE_PROGRAM=D:/Program Files/JetBrains/CLion 2022.2.1/bin/ninja/win/ninja.exe" -G Ninja -S D:\dev\CodeProjects\OGRE_TEST_2 -B D:\dev\CodeProjects\OGRE_TEST_2\cmake-build-release
+-- The C compiler identification is MSVC 19.16.27048.0
+-- The CXX compiler identification is MSVC 19.16.27048.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: D:/dev/MSVC/VC/Tools/MSVC/14.16.27023/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: D:/dev/MSVC/VC/Tools/MSVC/14.16.27023/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found OGRE
+--   static     : OFF
+--   components : Bites;Bullet;MeshLodGenerator;Overlay;Paging;Property;RTShaderSystem;Terrain;Volume
+--   plugins    : Plugin_BSPSceneManager;Plugin_OctreeSceneManager;Plugin_PCZSceneManager;Plugin_ParticleFX;RenderSystem_GL;RenderSystem_GLES2;RenderSystem_GL3Plus;RenderSystem_Direct3D9;RenderSystem_Direct3D11;Codec_STBI
+--   media      : D:/dev/OGRE/Media
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/dev/CodeProjects/OGRE_TEST_2/cmake-build-release
